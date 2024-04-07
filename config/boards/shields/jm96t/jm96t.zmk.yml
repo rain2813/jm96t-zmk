@@ -1,18 +1,12 @@
-identifier: jm96t
-name: jm96t
-type: mcu
+file_format: "1"
+id: jm96t 
+name: jm96t 
+type: board
 arch: arm
-toolchain:
-  - zephyr
-  - gnuarmemb
- - xtools
-supported:
-  - adc
-  - usb_device
+features:
+  - keys
+  - underglow
+outputs:
+  - usb
   - ble
-  - ieee802154
-  - pwm
-  - watchdog
-  - gpio
-  - i2c
-  - spi
+url: 
