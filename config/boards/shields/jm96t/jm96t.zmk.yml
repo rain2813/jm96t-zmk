@@ -3,10 +3,9 @@ id: jm96t
 name: jm96t 
 type: shield
 requires: [Nice!Nano]
-url: https://github.com/ALpotato
+url: https://github.com/zmkfirmware/zmk
 features:
   - keys
-  - underglow
 outputs:
   - usb
   - ble
