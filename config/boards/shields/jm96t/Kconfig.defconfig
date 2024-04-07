@@ -6,8 +6,6 @@ if BOARD_JM96T
 config ZMK_KEYBOARD_NAME
     default "JM96T"
 
-endif
-
 if USB_DEVICE_STACK
 
 config USB_NRFX
