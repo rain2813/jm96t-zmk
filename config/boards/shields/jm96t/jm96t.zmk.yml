@@ -1,12 +1,14 @@
 file_format: "1"
 id: jm96t 
 name: jm96t 
-type: board
-arch: arm
+type: shield
+requires: [Nice!Nano]
+url: https://github.com/zmkfirmware/zmk
 features:
   - keys
   - underglow
 outputs:
   - usb
   - ble
-url: 
+
+
