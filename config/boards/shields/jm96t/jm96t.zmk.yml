@@ -3,7 +3,7 @@ id: jm96t
 name: jm96t 
 type: shield
 requires: [Nice!Nano]
-url: https://github.com/zmkfirmware/zmk
+url: https://github.com/zmkfirmware
 features:
   - keys
 outputs:
